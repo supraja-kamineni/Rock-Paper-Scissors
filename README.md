@@ -38,7 +38,7 @@ This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaS
 
 ## Screenshots
 
-![Game Interface](images/screenshot.png)
+![Game Interface](Rock-Paper-Sicssors-Game.png)
+
 
 Enjoy playing Rock Paper Scissors!
-
